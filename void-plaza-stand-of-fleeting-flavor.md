@@ -18,6 +18,7 @@ A minimalist, almost sterile, food stand in The Void Plaza. The stand is painted
 *   **The Disappearing Donut:** A glazed donut that bursts with sweetness upon first bite, only to dissolve into a tasteless mush moments later. 🍩
 *   **The Phantom Popcorn:** A bag of buttery popcorn that offers a fleeting moment of salty satisfaction before transforming into flavorless Styrofoam. 🍿
 *   **The Elusive Energy Drink:** A brightly colored energy drink that provides a brief surge of energy before leaving you feeling even more tired than before. ⚡
+* **Free Flavoured Air**: Enjoy the sensation of air, flavored with nothing!
 
 ## Theming
 
