@@ -2,6 +2,18 @@
 
 Welcome to Nihiland, the theme park where the only thing you can count on is disappointment! Prepare to question everything you thought you knew about fun, joy, and the meaning of existence. 🤪
 
+## Characters
+
+Our lovable (or hateable) cast of characters will help make your trip a nihilistic experience you will never forget!
+
+* Hamlet: Our resident existentialist, he can often be found wondering whether to eat or not to eat a hot dog.
+
+* Our surly government worker: Has no name, does not care about his job, and is there to cause problems with you.
+
+* The Sentient Produce: They don't want to be eaten, but what can they do?
+
+* You
+
 ## Park Overview
 
 Nihiland is divided into several themed lands, each offering a unique (and uniquely depressing) experience:
