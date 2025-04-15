@@ -6,6 +6,12 @@ Prepare for a plunge into the depths of decision! "The Choice Chute" is a dark r
 Concept art for "The Choice Chute" dark ride. The ride vehicles are small, tram-like cars that travel along a winding track through a dimly lit barn. Each car has two steering wheels, one labeled "Optimism" and the other "Pessimism." An animatronic farmer stands at a crossroads, shrugging indifferently as the cars pass.
 } image!
 
+## Important Philosophical Warning:
+
+Before boarding, please consider the following:
+
+*"Are we not all just puppets dancing on the strings of fate? Does choice truly exist, or is it merely an illusion created to comfort us in the face of our own insignificance? By riding "The Choice Chute," you acknowledge the possibility that your decisions are meaningless, your efforts are futile, and your existence is ultimately absurd."*
+
 ## Ride Experience
 
 1.  **The Queue of Contemplation:** As you wait in line, ponder a series of thought-provoking (and ultimately depressing) questions displayed on large screens: "What is the meaning of life?", "Does free will truly exist?", "Are you happy with your choices?". The answers, of course, are never provided. ⏳
