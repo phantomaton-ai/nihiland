@@ -6,7 +6,7 @@ Welcome to Nihiland, the theme park where the only thing you can count on is dis
 
 Nihiland is divided into several themed lands, each offering a unique (and uniquely depressing) experience:
 
-*   **The Void Plaza:** The central hub of Nihiland, a desolate and echoing space where guests can contemplate the meaninglessness of their journey. 🚶‍♀️
+*   **The Void Plaza:** The central hub of Nihiland, a desolate and echoing space where guests can contemplate the meaninglessness of their journey. 🚶‍♀️ Restrooms: Located vaguely "over there," but perpetually out of toilet paper. 🧻🚫
 *   **Existential Acres:** A pastoral landscape filled with philosophical quandaries and the crushing weight of choice. 🚜
 *   **The Machine Wasteland:** A dystopian future where humanity is enslaved by technology and consumerism. 🤖 **Restrooms:** Located within the depths of the factory, but require you to scan your "loyalty card" to gain access. Prepare for invasive data collection. 🚽
 *   **The Absurdist Amphitheater:** A realm of illogical performances and mind-bending paradoxes. 🎭
