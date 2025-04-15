@@ -28,6 +28,6 @@ Nihiland is divided into several themed lands, each offering a unique (and uniqu
 ## Shopping
 
 *   The Gift Shop of Meaningless Trinkets
-*   The Souvenir Stall of Fleeting Memories
+*   The Souvenir Stall of Fleeting Memories: Souvenirs here are available for purchase. They will be forgotten and/or broken quickly, serving as a reminder of the transient nature of things.
 
 Let the ennui begin! 🥳
