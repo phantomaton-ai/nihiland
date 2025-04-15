@@ -6,6 +6,12 @@ Fasten your seatbelts and prepare for a thrilling (and utterly pointless) ride t
 A chaotic and illogical roller coaster track that winds through a towering office building. The track is filled with loops of red tape, sudden drops into filing cabinets, and near-misses with stamp-wielding bureaucrats. The ride vehicles are shaped like office chairs and are filled with riders wearing bewildered expressions. A sign at the entrance reads: "Warning: May Cause Extreme Frustration."
 } image!
 
+## Important Philosophical Warning:
+
+Before riding, please consider:
+
+Are you sure you want to do this? Or are you just going along with what society expects of you? Also, this ride is going to be terrible, and all the waiting is going to be even worse.
+
 ## Ride Experience
 
 1.  **The Queue of Qualification:** Begin your bureaucratic journey by filling out a lengthy application form that requires absurd information and impossible-to-obtain documentation. 📝
@@ -19,12 +25,12 @@ A chaotic and illogical roller coaster track that winds through a towering offic
 
 ## Theming
 
-*   The roller coaster track winds through a towering office building filled with desks, filing cabinets, and stamp-wielding bureaucrats.
-*   The ride vehicles are shaped like office chairs and are equipped with tiny staplers and hole punchers.
-*   The soundtrack consists of Muzak, the sounds of paperwork shuffling, and the frustrated sighs of government employees.
+The roller coaster track winds through a towering office building filled with desks, filing cabinets, and stamp-wielding bureaucrats.
+The ride vehicles are shaped like office chairs and are equipped with tiny staplers and hole punchers.
+The soundtrack consists of Muzak, the sounds of paperwork shuffling, and the frustrated sighs of government employees.
 
 ## Important Legal Jargon
 
-*   By riding "The Bureaucracy Rollercoaster," you acknowledge that you understand and agree to all applicable rules, regulations, policies, and procedures, as outlined in Form 42-B, Attachment 7, Subsection C, Paragraph 12, Addendum 9, Revision 6. Failure to comply may result in fines, imprisonment, or worse!
+By riding "The Bureaucracy Rollercoaster," you acknowledge that you understand and agree to all applicable rules, regulations, policies, and procedures, as outlined in Form 42-B, Attachment 7, Subsection C, Paragraph 12, Addendum 9, Revision 6. Failure to comply may result in fines, imprisonment, or worse!
 
 **Disclaimer:** "The Bureaucracy Rollercoaster" may cause feelings of frustration, anxiety, and a general distrust of government. Not recommended for those with low tolerance for red tape. Ride at your own risk! Enjoy (or rather, endure) the process!
