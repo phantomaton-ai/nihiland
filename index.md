@@ -16,7 +16,7 @@ Nihiland is divided into several themed lands, each offering a unique (and uniqu
 (More details to come in each land's section!)
 
 *   The Carousel of Regret
-*   The Hall of Broken Mirrors
+*   The Hall of Broken Mirrors: A disorienting maze filled with distorted reflections, forcing you to confront your own flaws and imperfections. Prepare for an existential crisis!
 *   The Bureaucracy Rollercoaster
 
 ## Dining
