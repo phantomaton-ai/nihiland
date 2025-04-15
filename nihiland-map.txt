@@ -1,0 +1,64 @@
+NIHLAND: An Unamusement Park - TEXT MAP
+
+===============================================================================
+VOID PLAZA - You Are Here. Contemplate the Abyss.
+
+[N] - Existential Acres: Farm Fresh Despair!
+[E] - The Absurdist Amphitheater: Where Logic Goes to Die.
+[S] - Useless Restrooms
+[W] - The Machine Wasteland: Obey. Consume. Despair.
+
+VOID PLAZA ATTRACTIONS:
+[1] Carousel of Regret
+[2] The Monument to Meaninglessness
+[3] Useless Restrooms
+[4] The Tears of Disappointment Vending Machine
+[5] Gift Shop of Unfulfilled Potential
+[6] Meet the Existential Mascot
+
+===============================================================================
+EXISTENTIAL ACRES - Farm Fresh Despair!
+
+[N] - MORE FARMS
+[E] - Nothing
+[S] - VOID PLAZA
+[W] - Unnecessary Shed
+
+EXISTENTIAL ACRES ATTRACTIONS
+[1] Hamlets's Hesitation Hot Dogs
+[2] Choice Chute
+[3] Simulation Station
+[4] Sentient Produce Stand
+
+===============================================================================
+THE ABSURDIST AMPHITHEATER - Where Logic Goes to Die.
+
+[N] - This Area Intentionally Left Blank
+[E] - More Meaningless Performances
+[S] - The Machine Wasteland
+[W] - VOID PLAZA
+
+THE ABSURDIST AMPHITHEATER ATTRACTIONS:
+[1] Cinema of Non-Sequiturs
+[2] Curio Emporium of Contradictions
+[3] Bureaucracy Rollercoaster
+[4] Ministry of Misinformation
+[5] Poetry Slam of Gibberish
+
+===============================================================================
+THE MACHINE WASTELAND - Obey. Consume. Despair.
+
+[N] - Absurdist Amphitheater
+[E] - Robot Repair
+[S] - Empty Space
+[W] - VOID PLAZA
+
+THE MACHINE WASTELAND ATTRACTIONS
+[1] Life Upgrade Store
+[2] Soylent Smoothie Stop
+[3] The Hall of Echo Chambers
+[4] Useless Phone Booth
+[5] Broken Vending Machine
+[6] Path to Existential Acres
+
+===============================================================================
