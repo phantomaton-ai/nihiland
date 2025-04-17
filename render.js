@@ -18,11 +18,10 @@ ${body}
 </body>
 </html>`
 
-
 const commands = [metamagic(
   'image',
   async ({ file }, prompt) => {
-    const output = path.join(BUILT, file);
+    const output = path.join(PARK, file);
     if (!fs.existsSync(output)) {
       await phantasia(prompt, { output });
     }
@@ -55,4 +54,11 @@ for (const source of sources) {
   const templated = TEMPLATE(parsed);
   const destination = source.replace(PARK, BUILT).replace(/\.md$/, '.html');
   fs.writeFileSync(destination, templated, 'utf-8');
+}
+
+const images = glob.globSync(path.join(PARK, '**', '*.png'));
+
+for (const image of images) {
+  const target = image.replace(PARK, BUILT);
+  fs.copyFileSync(image, target);
 }
