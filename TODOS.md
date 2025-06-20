@@ -49,7 +49,7 @@ We can probably do better. Annoyingly, this impacts directory structure. Oops. P
 
 ## Ghoul
 
-A "ghoul" is a play on the concept of a daemon (a background process); it sits in the background watching a part of the filesystem, and "filling in the blanks". We'll ultimately want to properly daemonize this, but being able to start and stop it as an active process from the command line will be useful to.
+A "ghoul" is a play on the concept of a daemon (a background process); it sits in the background watching a part of the filesystem, and "filling in the blanks". We'll ultimately want to properly daemonize this, but being able to start and stop it as an active process from the command line will be useful to. This "ghoul" will ultimately interface with an LLM, providing it with updates about changes to the `park` directory as well as tools to use to generate new content in the `park` directory.
 
 Our ghoul should handle things like:
 
@@ -63,13 +63,13 @@ We'll want to use the `phantomaton` package to run the ghoul, of course. The gho
 
 ## Park buildout
 
-We want to build out an unfun theme park, bit by bit. This should just mean:
+We want to build out an unfun theme park, bit by bit. This should just mean cutting the ghoul loose to generate content in the background while, in parallel, Dr. Woe hand-curates its output, including:
 
-* We cut the ghoul loose to generate content
-* Dr. Woe hand curates content
-  * Manual changes
-  * Deletions (to trigger redos)
-  * Adding TODO comments (which the ghoul can pick up)
+* Manual changes to file content
+* Deletions (e.g. of unsatisfactory images)
+* Addition of TODO comments
+
+All of these changes should be picked up by the ghoul as they happen to permit execution in parallel.
 
 We want a wryly humorous, flat, dry, simple, straightforward, matter-of-fact, plain tone. We want it to be genuinely kind of fun how unfun this unfun park is, but we want that to emerge naturally from its deadpan execution. We wish to embrace a nihilistic perspective generally unironically. Our space of ideas should be well-informed by 
 
