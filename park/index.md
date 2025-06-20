@@ -1,3 +1,5 @@
+Nihiland is an unfun theme park generally inspired by and embodying nihilism as a philosophy and lifestyle.
+
 # Nihiland
 
 An unamusement park.
