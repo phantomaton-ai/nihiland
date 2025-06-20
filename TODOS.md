@@ -73,10 +73,9 @@ We should only provide rendering output to the ghoul when/while there are valida
 
 ```
 const ghoul = ghoulbox({
-  task: () => execSync('node render.js'),
-  remedy: e => phantomaton(PROMPT, options(e.stdout, e.stderr)),
-  interval: 1000,
-  maximum: 30
+  () => execSync('node render.js'),
+  e => phantomaton(PROMPT, options(e.stdout, e.stderr)),
+  { interval: 1000, maximum: 30 }
 });
 watch('park', () => ghoul.awaken());
 ghoul.awaken();
