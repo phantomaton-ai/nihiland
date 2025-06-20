@@ -61,6 +61,11 @@ Our ghoul should handle things like:
 
 We'll want to use the `phantomaton` package to run the ghoul, of course. The ghoul should self-prioritize these concerns.
 
+A ghoul should regularly receive:
+
+* A list of files modified since the last message
+* Rendering output (including dead link and TODO detection!)
+
 ## Park buildout
 
 We want to build out an unfun theme park, bit by bit. This should just mean cutting the ghoul loose to generate content in the background while, in parallel, Dr. Woe hand-curates its output, including:
