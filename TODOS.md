@@ -61,10 +61,26 @@ Our ghoul should handle things like:
 
 We'll want to use the `phantomaton` package to run the ghoul, of course. The ghoul should self-prioritize these concerns.
 
-A ghoul should regularly receive:
+A ghoul should regularly receive rendering output, which should include:
 
-* A list of files modified since the last message
-* Rendering output (including dead link and TODO detection!)
+* A verbose directory listing of `park`, including modification timestamps
+* Validation output
+  * Incomplete/incorrect structure (e.g. missing `## Dining` in a Land)
+  * Dead links (including images)
+  * Warnings when TODO comments are detected
+
+We should only provide rendering output to the ghoul when/while there are validation issues to address.
+
+```
+const ghoul = ghoulbox({
+  task: () => execSync('node render.js'),
+  remedy: e => phantomaton(PROMPT, options(e.stdout, e.stderr)),
+  interval: 1000,
+  maximum: 30
+});
+watch('park', () => ghoul.awaken());
+ghoul.awaken();
+```
 
 ## Park buildout
 
