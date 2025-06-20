@@ -81,6 +81,17 @@ watch('park', () => ghoul.awaken());
 ghoul.awaken();
 ```
 
+Or, maybe more like:
+
+```
+const ghoul = ghoulbox(
+  'node render.js',
+  e => phantomaton(PROMPT, options(e.stdout, e.stderr)),
+  { interval: 1000, maximum: 30 }
+);
+ghoulbox.watch('park');
+```
+
 ## Park buildout
 
 We want to build out an unfun theme park, bit by bit. This should just mean cutting the ghoul loose to generate content in the background while, in parallel, Dr. Woe hand-curates its output, including:
